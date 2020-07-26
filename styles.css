@@ -1,0 +1,74 @@
+body {
+  font-family: "Ubuntu", cursive !important;
+  background: url(https://cdn5.f-cdn.com/contestentries/1370548/29833877/5b4f15b1ea4aa_thumb900.jpg);
+}
+
+.smicon {
+  width: 40px;
+}
+
+.jumbotron {
+  background: url("https://cdn10.bostonmagazine.com/wp-content/uploads/2015/04/boston-public-garden.jpg");
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+  border: 1px solid black;
+  margin-top: 15px;
+}
+
+.card {
+  border: 1px solid black;
+  box-sizing: content-box;
+  max-height: 490px;
+  margin: 25px 0px 15px 0px;
+  overflow-y: scroll;
+}
+
+.display-4 {
+  color: #fff;
+  font-family: "Bungee Shade", cursive;
+}
+
+.container {
+  background: #e6ebeb;
+}
+
+.news {
+  margin: 25px 400px 0px 15px;
+}
+
+.btnclr {
+  color: green;
+}
+
+.lead {
+  color: white;
+}
+
+.regbtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -30px;
+  margin-top: 105px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.footer a {
+  margin: 15px 15px;
+}
+
+.links:hover {
+  margin-right: 10px;
+  border-radius: ;
+  background-color: orange;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
